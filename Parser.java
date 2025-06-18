@@ -1,6 +1,3 @@
-import java.awt.image.TileObserver;  // unused import
-import java.util.SimpleTimeZone;     // unused import
-
 /**
  * The Parser class implements a recursive descent parser for a small
  * custom programming language (as defined by the grammar in Main.java).
