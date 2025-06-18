@@ -1,6 +1,3 @@
-# recursive-descent-parser
-A recursive descent parser and lexer for a toy programming language, implemented in Java as part of university coursework.
-
 # Recursive Descent Parser in Java
 
 This project implements a recursive descent parser and lexer for a simple toy programming language. The parser reads and processes source code, tokenizes it using a custom lexer, builds a parse tree, and reports syntax errors where appropriate.
